@@ -123,3 +123,4 @@ They have really robust content, almost too much in places, but you can really l
 -  Don't use images enough to tie in with the content
 - Site doesn't really have a primary call to action. Everything is really all on the same level.
 - No real 'wow' factor and the site isn't too engaging aside from the nice homepage slideshow photos.
+- Social media icons sorta get lost in the footer
