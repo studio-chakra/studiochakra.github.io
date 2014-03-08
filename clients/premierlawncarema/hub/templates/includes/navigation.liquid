@@ -1,0 +1,29 @@
+<header class="navbar navbar-static-top bs-docs-nav" id="top" role="banner">
+  <div class="container">
+    <div class="navbar-header">
+      <button class="navbar-toggle" type="button" data-toggle="collapse" data-target=".bs-navbar-collapse">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a href="/" class="navbar-brand">Premier Lawn Care MA</a>
+    </div>
+    <nav class="collapse navbar-collapse bs-navbar-collapse" role="navigation">
+      <ul class="nav navbar-nav">
+        <li{% if mixture.url == "index" %} class="active"{% endif %}>
+          <a href="/">Hub</a>
+        </li>
+        <li{% if mixture.url == "timeline" %} class="active"{% endif %}>
+          <a href="/timeline">Timeline</a>
+        </li>
+        <li{% if mixture.url == "competitors" %} class="active"{% endif %}>
+          <a href="/competitors">Competitors</a>
+        </li>
+        {% comment %}<li{% if mixture.url == "personas" %} class="active"{% endif %}>
+          <a href="/personas">Personas</a>
+        </li>{% endcomment %}
+      </ul>
+    </nav>
+  </div>
+</header>

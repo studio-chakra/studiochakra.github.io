@@ -12,9 +12,9 @@ published: true
 ***
 
 # Naruto Son
-**Profile:** Healthy Father 
+**Profile:** Healthy Father  
 **Gender:** Male  
-**Age:** 34 
+**Age:** 34  
 **Location:** Blackstone, RI  
 **Occupation:** Water Treatment Maintenance
 

@@ -1,0 +1,10 @@
+{% block title %}Competitor Reviews & Analysis{% endblock %}
+{% block lead %}{% endblock %}
+
+{% block content %}
+
+	{% collection "docs" query 'tags=competitor' %}
+ 		{% include "competitor/review" with collection.items %}
+	{% endcollection %}
+
+{% endblock %}

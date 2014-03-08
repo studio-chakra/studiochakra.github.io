@@ -1,0 +1,17 @@
+{% if mixture.url == "competitors" %}
+
+	<div class="bs-docs-sidebar hidden-print affix-top" role="complementary">
+		
+		{% collection "docs" query 'tags=competitor' %}
+		<ul class="nav bs-docs-sidenav">
+			{% for post in collection.items %}
+				<li><a href="#{{ post.alias }}">{{ post.title }}</li></a>
+			{% endfor %}
+		</ul>
+		{% endcollection %}
+
+		<a class="back-to-top" href="#top">Back to top</a>
+
+	</div>
+
+{% endif %}

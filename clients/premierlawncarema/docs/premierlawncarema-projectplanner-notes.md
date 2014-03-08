@@ -7,10 +7,10 @@
 ---
 
 ### Client Details
-POC: Michael Bouffard
-Title: Owner/President
-Business Name: Premier Lawn Care, Inc.
-Email: MBouffard@PremierLawnCareMA.com
+POC: Michael Bouffard  
+Title: Owner/President  
+Business Name: Premier Lawn Care, Inc.  
+Email: MBouffard@PremierLawnCareMA.com  
 Phone: (508) 446-7504
 
 ### Project Details
