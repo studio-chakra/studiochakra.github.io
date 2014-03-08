@@ -3,11 +3,11 @@
   "domain": null,
   "lintScripts": false,
   "modelSource": null,
-  "preprocessorLocations": "public",
-  "preprocessorScriptOutput": "public/js",
-  "preprocessorStyleOutput": "public/css",
-  "projectDescription": "Sleek, intuitive, and powerful front-end framework for faster and easier web development.",
-  "projectName": "premierlawncarema-dashboard",
+  "preprocessorLocations": "assets",
+  "preprocessorScriptOutput": "assets/scripts",
+  "preprocessorStyleOutput": "assets/css",
+  "projectDescription": "A simple empty boilerplate for a fresh start",
+  "projectName": "hub",
   "publishedId": null,
   "serverHostname": null,
   "serverPort": null,
@@ -16,6 +16,5 @@
   "templateDefaultPage": "index",
   "templateDirectory": "templates",
   "type": "mixture",
-  "useCompass": false,
-  "followLeader": true
+  "useCompass": false
 }

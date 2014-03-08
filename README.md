@@ -1,2 +1,2 @@
-StudioChakra.github.io
+studiochakra.github.io
 ======================

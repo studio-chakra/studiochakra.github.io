@@ -7,7 +7,7 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a href="/" class="navbar-brand">Premier Lawn Care MA</a>
+      <a href="/" class="navbar-brand">Premier Lawn Care MA Redesign</a>
     </div>
     <nav class="collapse navbar-collapse bs-navbar-collapse" role="navigation">
       <ul class="nav navbar-nav">
@@ -17,9 +17,9 @@
         <li{% if mixture.url == "timeline" %} class="active"{% endif %}>
           <a href="/timeline">Timeline</a>
         </li>
-        <li{% if mixture.url == "competitors" %} class="active"{% endif %}>
+        {% comment %}<li{% if mixture.url == "competitors" %} class="active"{% endif %}>
           <a href="/competitors">Competitors</a>
-        </li>
+        </li>{% endcomment %}
         {% comment %}<li{% if mixture.url == "personas" %} class="active"{% endif %}>
           <a href="/personas">Personas</a>
         </li>{% endcomment %}
