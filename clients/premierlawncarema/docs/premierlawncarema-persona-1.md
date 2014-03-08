@@ -1,3 +1,10 @@
+---
+title: Norman Bates
+tags: [persona]
+alias: normanbates
+published: true
+---
+
 ###### Premier Lawn Care MA
 
 ### User Persona
@@ -14,7 +21,7 @@
 ***
 
 ### Photo
-![](https://raw.github.com/studiochakra/premierlawncarema-dashboard/master/public/img/competitor-screenshots/babes-1.png)
+![](https://raw.github.com/studiochakra/studiochakra.github.io/master/clients/premierlawncarema/docs/assets/persona-1.jpg)
 
 ### Description
 Norman has been a web developer for over 10 years. He works remotely for a company out of Washington, DC and spends 8+ hours per day in front of a computer. He just bought a home about 3 years ago, which has 3 bedrooms, 2 baths and 2 separate yard areas. When he purchaed the home there was no lawn or landscaping. A new lawn was put in about 2 years ago.
@@ -23,12 +30,20 @@ Norman mainly splits his time between work and training in martial arts. Any ext
 
 Normal loves thing that look good and are clean. Very shy to the core, sarcastic and overly modest person. Expert technical skills, and learns things quickly. He loves to figure things out and do things on his own. He's had problems with hiring the right people for the right job in the past.
 
+### Tech/Social/Mobile Context
+Norman is an expert on the web since he is on the computer 8-14+ hours per day. He builds websites so he is comfortable with finding the right information on websites. He also knows how to build computers, install software, etc. Norman uses an iPhone 5s as his primary mobile device but also has an iPad Air. On the go, he uses his iPhone to make calls and check emails. When he is out and about and needs to kill time he'll mess with his phone. Norman constantly checks Facebook, Instagram and Twitter to fell 'connected' to the world. While at home, he'll multitask with his iPad while watching TV or movies.
+
+Norman doesn't do too much social posting, just once in a while. He mainly takes pictures of his work and home as he's working on things and posts about it. He also uses social networks to learn about all the new things happeneing in the web development world.
+
 ### Goals / Site Usage
-* Wants to learn about what goes into keeping his lawn looking new
+* Wants to learn about what goes into keeping his lawn looking new.
 * Would like to see if they have any 'packages' for lawn care maintenance that he can pay upfront, for the year.
 * Isn't really sure what 'lawn care' is, what's involved, what you get out of the service. Would like to learn more before hiring, so he can compare to other services.
 * Needs proof that the company can do what it claims, would like to see customer before/after photo's and testimonials.
 * Wants to pay for services online, doesn't write checks, and is not a fan of mail.
+* Would like to read about what he could be doing between services to keep his lawn in shape.
+* Doesn't have time to go to the website all the time, would like to be automatically updated if something new is posted on the website.
+* Find contact information
 
 ### Frustrations
 * Having incosistent healthy grass and not knowing how to fix it, or what the problem could be.
@@ -37,9 +52,5 @@ Normal loves thing that look good and are clean. Very shy to the core, sarcastic
 * Not sure of how much to water his grass
 * Would like to know the exact schedule of the maintenance plan
 
-### Tech/Social/Mobile Context
-Norman is an expert on the web since he is on the computer 8-14+ hours per day. He builds websites so he is comfortable with finding the right information on websites. He also knows how to build computers, install software, etc. Norman uses an iPhone 5s as his primary mobile device but also has an iPad Air. On the go, he uses his iPhone to make calls and check emails. When he is out and about and needs to kill time he'll mess with his phone. Norman constantly checks Facebook, Instagram and Twitter to fell 'connected' to the world. While at home, he'll multitask with his iPad while watching TV or movies.
-
-Norman doesn't do too much social posting, just once in a while. He mainly takes pictures of his work and home as he's working on things and posts about it. He also uses social networks to learn about all the new things happeneing in the web development world.
 
 
