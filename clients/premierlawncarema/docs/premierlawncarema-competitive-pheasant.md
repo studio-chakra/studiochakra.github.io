@@ -1,14 +1,26 @@
-# Premier Lawn Care MA Competitor Review
-## Pheasant Hill Landscape
-http://www.pheasanthilllandscape.com/
-
+---
+title: Pheasant Hill Landscape
+tags: [competitor]
+alias: pheasant
+published: true
 ---
 
+###### Premier Lawn Care MA
+
+### Competitor Review
+
+***
+
+# Pheasant Hill Landscape
+http://www.pheasanthilllandscape.com/
+
+***
+
 ### Screenshots
-![](https://raw2.github.com/studiochakra/studiochakra.github.io/master/clients/premierlawncarema/competitive%20screenshots/pheasant-1.png)
-![](https://raw2.github.com/studiochakra/studiochakra.github.io/master/clients/premierlawncarema/competitive%20screenshots/pheasant-2.png)
-![](https://raw2.github.com/studiochakra/studiochakra.github.io/master/clients/premierlawncarema/competitive%20screenshots/pheasant-3.png)
-![](https://raw2.github.com/studiochakra/studiochakra.github.io/master/clients/premierlawncarema/competitive%20screenshots/pheasant-4.png)
+![](https://raw.github.com/studiochakra/premierlawncarema-dashboard/master/public/img/competitor-screenshots/pheasant-1.png)
+![](https://raw.github.com/studiochakra/premierlawncarema-dashboard/master/public/img/competitor-screenshots/pheasant-2.png)
+![](https://raw.github.com/studiochakra/premierlawncarema-dashboard/master/public/img/competitor-screenshots/pheasant-3.png)
+![](https://raw.github.com/studiochakra/premierlawncarema-dashboard/master/public/img/competitor-screenshots/pheasant-4.png)
 
 ### Description
 From the website: Pheasant Hill Landscape has proudly served communities throughout the Metrowest, Greater Boston, and central Massachusetts for over 25 years.  Founded by Dean Tzellas,UMass Stockbridge Graduate, a landscape expert and licensed landscape professional, Pheasant Hill Landscape is well known for high quality work, meticulous attention to detail, and unparelleled customer service. We strive is to deliver the highest quality service,  the best value, and the best results of any landscape company in the area..  We are extremely proud that our valued clients' testimonials back it up.   Pheasant Hill Landscape is fully licensed and insured, and the only landscape company you'll need,for weekly maintenance,design,construction,and full lawn care programs.  Please contact Pheasant Hill Landscape for a free consultation by calling  508 626 0406 or email us at dean@pheasanthilllandscape.com

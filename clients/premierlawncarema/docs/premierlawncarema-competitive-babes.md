@@ -1,16 +1,29 @@
-# Premier Lawn Care MA Competitor Review
-## Babe's Lawn Care, Inc.
-http://www.babeslawncare.com/
-
+---
+title: Babe's Lawn Care, Inc.
+tags: [competitor]
+alias: babes
+published: true
 ---
 
+###### Premier Lawn Care MA
+
+### Competitor Review
+
+***
+
+# Babe's Lawn Care, Inc.
+http://www.babeslawncare.com/
+
+***
+
 ### Screenshots
-![](https://raw2.github.com/studiochakra/studiochakra.github.io/master/clients/premierlawncarema/competitive%20screenshots/babes-1.png)
-![](https://raw2.github.com/studiochakra/studiochakra.github.io/master/clients/premierlawncarema/competitive%20screenshots/babes-2.png)
-![](https://raw2.github.com/studiochakra/studiochakra.github.io/master/clients/premierlawncarema/competitive%20screenshots/babes-3.png)
-![](https://raw2.github.com/studiochakra/studiochakra.github.io/master/clients/premierlawncarema/competitive%20screenshots/babes-4.png)
-![](https://raw2.github.com/studiochakra/studiochakra.github.io/master/clients/premierlawncarema/competitive%20screenshots/babes-5.png)
-![](https://raw2.github.com/studiochakra/studiochakra.github.io/master/clients/premierlawncarema/competitive%20screenshots/babes-6.png)
+![](https://raw.github.com/studiochakra/premierlawncarema-dashboard/master/public/img/competitor-screenshots/babes-1.png)
+![](https://raw.github.com/studiochakra/premierlawncarema-dashboard/master/public/img/competitor-screenshots/babes-2.png)
+![](https://raw.github.com/studiochakra/premierlawncarema-dashboard/master/public/img/competitor-screenshots/babes-3.png)
+![](https://raw.github.com/studiochakra/premierlawncarema-dashboard/master/public/img/competitor-screenshots/babes-4.png)
+![](https://raw.github.com/studiochakra/premierlawncarema-dashboard/master/public/img/competitor-screenshots/babes-5.png)
+![](https://raw.github.com/studiochakra/premierlawncarema-dashboard/master/public/img/competitor-screenshots/babes-6.png)
+
 
 ### Description
 From the website: Founded in 1996 by Chris “Babe” Predella, Babe’s Lawn Care has served South Central Massachusetts by providing quality grounds maintenance at affordable prices for over 17 years. Equipped to handle all facets of outdoor grounds maintenance in New England, our team provides full service landscape management for hundreds of our customers with the utmost reliability, service and quality. Our professional crews pride themselves on customer service and quality workmanship. Let us show you what many other property managers and home owners in the community have discovered:  Babe’s Lawn Care can take the stress out of your grounds maintenance needs for every season, including snow removal in the winter and firewood delivery.

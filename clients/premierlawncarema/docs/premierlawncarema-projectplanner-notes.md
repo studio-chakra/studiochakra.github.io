@@ -1,5 +1,10 @@
-# Premier Lawn Care MA Project Planner Notes
+
+###### Premier Lawn Care MA
+### Project Planner Notes
+
 *Last updated: 2014.02.20*
+
+---
 
 ### Client Details
 POC: Michael Bouffard

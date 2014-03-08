@@ -1,12 +1,19 @@
 ---
-title: Premier Lawn Care MA Competitor Comparison Findings
+title: Competitor Analysis
+tags: [competitor,notes]
+alias: comparison
+published: true
 ---
 
-# Premier Lawn Care MA Competitor Comparison Findings
+###### Premier Lawn Care MA
+
+### Competitor Analysis
+
 This document outlines and pulls together everything that I found in the indivdiual competitive reviews. It can be used as a reference for common patterns and a summary of features from each review.
+
 *Last updated: 2014.02.22*
 
----
+***
 
 ## Design & Layout
 
@@ -43,7 +50,7 @@ Out of the 4 sites, Babe's is the most modern, with LawnDawg coming in second pl
 - All 4 had some type of introductary text, but not prominent at all
 - I like the idea that Lawn Dawg had of having an area for 'whats new'. I wouldn't suggest that exactly but an area on the HP and/or other pages where pressing updates can be implemented (like these specific things to watch out for since it's been so hot last week, etc.)
 
----
+***
 
 ## Elements, Modules & Components
 - Quick/Instant quote form was consistent on all of the sites which provides a 1-click way to submit an inquiry to be contacted by the company without leaving the current page.
@@ -69,7 +76,7 @@ Out of the 4 sites, Babe's is the most modern, with LawnDawg coming in second pl
 - Account login & creation
 - Banner image
 
----
+***
 
 ## Content
 The comeptitor sites mostly had a similar content setup. Just basic pages w/ text and imagery in them, nothing special. They all seemed to only have 1 'content type', which is the basic article. Lawn Dawg had the most robust content, organized pretty nicely, although length and probably could of cut the content in half with a good use of imagery.
