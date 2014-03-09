@@ -1,3 +1,13 @@
+###### Premier Lawn Care MA
+### Contract
+
+Project: Premier Lawn Care MA Website Redesign  
+POC: Michael Bouffard (Owner)  
+Version: 1.0.0  
+Prepared: March 2nd, 2014
+
+***
+
 Between us **Studio Chakra (Ryan Belisle)**  
 and you **Mike Bouffard**
 
@@ -102,8 +112,10 @@ Oh and don’t forget those men with big dogs.
 
 ### The dotted line 
 
-Signed by and on behalf of **Studio Chakra (Ryan Belisle)**
-Signed by and on behalf of **Mike Bouffard**
+Signed by and on behalf of **Studio Chakra (Ryan Belisle)**  
+Date [date]
+
+Signed by and on behalf of **Michael Bouffard**  
 Date [date]
 
 Everyone should sign above and keep a copy for their records.
